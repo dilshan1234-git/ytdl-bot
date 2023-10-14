@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "env": {
-    "TOKEN": {
+    "TOKEN": {5927429053:AAGNa4VeQEOM5_Fj_mmq-21OqB6qr308DDU
         "description": "API Token , get it from @BotFather"
     }
   },
